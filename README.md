@@ -56,15 +56,6 @@ This project is a UI/UX redesign of the FOSSEE Workshop Booking platform. The go
 - Ensuring responsiveness across devices
 - Maintaining clean and readable code
 
----
-
-## 📸 Screenshots
-
-### Before
-(Add screenshot here)
-
-### After
-(Add your UI screenshot here)
 
 ---
 
